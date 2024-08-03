@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">MyNBAApp</string>
+    <string name="star_name">Nama Pemain</string>
+    <string name="star_team">Team</string>
+    <string name="star_posisi">Posisi</string>
+    <string name="star_height">Tinggi</string>
+    <string name="star_desc">Deskripsi</string>
+    <string name="share">SHARE</string>
+    <string name="splash">MyNBAApp V.1.0</string>
+    <string name="about_name">Syahdi Gharizah Ahsan</string>
+    <string name="about_email">syahdigharizah@gmail.com</string>
+    <string name="menu_about">About</string>
+    <string-array name="data_name">
+        <item>Stephen Curry</item>
+        <item>Chris Paul</item>
+        <item>Kevin Durant</item>
+        <item>Joel Embiid</item>
+        <item>Giannis Antetokounmpo</item>
+        <item>James Harden</item>
+        <item>Kyrie Irving</item>
+        <item>Nikola Jokic</item>
+        <item>Kawhi Leonard</item>
+        <item>Lebron James</item>
+        <item>Luka Doncic</item>
+        <item>Jayson Tatum</item>
+    </string-array>
+
+    <string-array name="data_pos">
+        <item>Point Guard</item>
+        <item>Point Guard</item>
+        <item>Small Forward</item>
+        <item>Center</item>
+        <item>Power Forward</item>
+        <item>Shooting Guard</item>
+        <item>Point Guard</item>
+        <item>Center</item>
+        <item>Small Forward</item>
+        <item>Small Forward</item>
+        <item>Point Guard</item>
+        <item>Small Forward</item>
+    </string-array>
+
+    <string-array name="data_team">
+        <item>Golden State Warriors</item>
+        <item>Phoenix Suns</item>
+        <item>Phoenix Suns</item>
+        <item>Philadelphia 76ers</item>
+        <item>Milwaukee Bucks</item>
+        <item>Philadelphia 76ers</item>
+        <item>Dallas Mavericks</item>
+        <item>Denver Nuggets</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Dallas Mavericks</item>
+        <item>Boston Celtics</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>1.91 cm</item>
+        <item>1.83 cm</item>
+        <item>2.08 cm</item>
+        <item>2.13 cm</item>
+        <item>2.11 cm</item>
+        <item>1.96 cm</item>
+        <item>1.88 cm</item>
+        <item>2.11 cm</item>
+        <item>2.01 cm</item>
+        <item>2.06 cm</item>
+        <item>2.01 cm</item>
+        <item>2.03 cm</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Wardell Stephen Curry II atau lebih dikenal sebagai Stephen Curry (lahir 14 Maret 1988) adalah pebasket profesional yang bermain sebagai point guard di kompetisi NBA (National Basketball Association). Ia memiliki catatan balls di atas rata-rata. Namanya dicatat dalam buku rekor NBA sebagai salah satu pelempar 3 angka terbaik dalam sejarah bola basket. Pada musim 2014-2015, Ia memenangi NBA Most Valuable Player dan memimpin Golden State Warrior menjuarai NBA pertamanya sejak tahun 1975. Di musim NBA 2016-2017 Steph Curry membawa Golden State Warriors ke final NBA untuk ketiga kalinya secara beruntun dimana dia memenangi kompetisi NBA untuk kedua kalinya.</item>
+        <item>Christopher Emmanuel Paul (lahir 6 Mei 1985) adalah pemain bola basket profesional Amerika untuk Phoenix Suns dari National Basketball Association (NBA). Dia telah memenangkan NBA Rookie of the Year Award , NBA All-Star Game Most Valuable Player Award , dua medali emas Olimpiade, dan memimpin NBA dalam assist empat kali dan mencuri rekor enam kali. Dia juga telah dipilih untuk sepuluh tim NBA All-Star , sembilan tim All-NBA , dan sembilan tim All-Defensive NBA .</item>
+        <item>Kevin Wayne Durant (lahir Washington, District of Columbia, 29 September 1988) adalah pebasket profesional berkebangsaan Amerika Serikat yang membela Brooklyn Nets di National Basketball Association (NBA). Ia hanya menyelesaikan 1 musim di Texas University dan di draft pada pilihan ke-2 di ronde pertama NBA draft pada tahun 2007. Kevin berposisi sebagai small forward yang bertinggi badan 208 cm menjuarai kompetisi NBA musim kompetisi 2016-2017 dan memenangi MVP Final 2016 - 2017. Ia terpilih 9 kali NBA All-Star dan 4 kali NBA scoring champion </item>
+        <item>Joel Hans Embiid (lahir 16 Maret 1994) adalah pemain bola basket profesional asal Kamerun untuk Philadelphia 76ers dari National Basketball Association (NBA), yang juga memiliki kewarganegaraan Perancis dan Amerika Serikat. Setelah satu tahun bermain basket di perguruan tinggi bersama Kansas Jayhawks, ia dipilih sebagai pemain ketiga secara keseluruhan oleh 76ers pada draft NBA 2014. Cedera kaki dan lutut yang berulang kali menunda debutnya selama dua musim hingga 2016-17, ketika ia masuk ke dalam NBA All-Rookie First Team meskipun hanya bermain dalam 31 pertandingan.</item>
+        <item>Giannis Sina Ugo Antetokounmpo (lahir 6 Desember 1994) adalah seorang pemain bola basket Yunani yang sekarang bermain untuk klub Milwaukee Bucks. Kombinasi Antetokounmpo dalam hal ukuran, kecepatan, dan kemampuan menangani bola menyebabkan dia dijuluki "Greek Freak". Dilahirkan di Yunani dari orang tua yang berasal dari Nigeria, Antetokounmpo mulai bermain bola basket untuk tim muda Filathlitikos di Athena. Pada 2011 ia mulai bermain untuk tim senior klub. Pada 2013 ia menyatakan dirinya memenuhi syarat untuk Draf NBA dan terpilih secara keseluruhan ke-15 oleh Bucks.</item>
+        <item>James Edward Harden Jr. (Lahir di Los Angeles, California 26 Agustus 1989) adalah pemain bola basket profesional Amerika untuk Philadelphia 76ers dari National Basketball Association (NBA). Dia bermain bola basket perguruan tinggi untuk Arizona State Sun Devils , di mana dia dinobatkan sebagai Pemain Terbaik All-American dan Pac-10 Tahun 2009. Harden terpilih dengan pilihan keseluruhan ketiga di Draf NBA 2009 oleh Oklahoma City Thunder. Pada tahun 2012, ia dinobatkan sebagai NBA Sixth Man of the Year dengan Oklahoma City Thunder dan membantu team mencapai Final NBA 2012.</item>
+        <item>Kyrie Andrew Irving (ahir tanggal 23 Maret 1992) adalah seorang pemain basket profesional Amerika Serikat yang bermain untuk Dallas Mavericks di National Basketball Association (NBA). Ia mendapatkan penghargaan NBA Rookie of the Year setelah direkrut Cleveland Cavaliers sebagai pemain pilihan pertama secara keseluruhan dalam draf NBA 2011. Sebagai pemain yang masuk NBA All-Star sebanyak enam kali, Irving terpilih dalam All-NBA Third Team pada tahun 2015. Ia memenangkan sebuah gelar NBA bersama Cavaliers pada tahun 2016.</item>
+        <item>Nikola Jokić ( lahir 19 Februari 1995) adalah seorang pemain bola basket profesional asal Serbia yang bermain sebagai pemain tengah untuk tim Denver Nuggets dari National Basketball Association (NBA). Sebagai lima kali NBA All-Star, ia telah dinobatkan sebagai anggota Tim All-NBA sebanyak empat kali (termasuk tiga kali terpilih sebagai anggota tim utama), dan memenangkan Penghargaan Pemain Paling Berharga NBA untuk musim 2020-21 dan 2021-22. Ia mewakili tim nasional Serbia.</item>
+        <item>Kawhi Anthony Leonard (lahir 29 Juni 1991) adalah seorang pemain bola basket profesional yang bermain untuk Los Angeles Clippers di NBA. Pada level perguruan tinggi, Leonard bermain selama dua musim untuk San Diego State Aztecs, dan terpilih untuk masuk dalam tim kedua All-American pada tahun keduanya di sana. Pada tahun 2011, Leonard memutuskan mengikuti draft NBA dan dipilih oleh Indiana Pacers pada urutan ke-15 sebelum kemudian ditukar ke San Antonio Spurs.</item>
+        <item>LeBron Raymone James (lahir 30 Desember, 1984) adalah pemain basket profesional asal Amerika yang bermain untuk Los Angeles Lakers dari National Basketball Association (NBA). James telah memenangkan 4 NBA championships (2012, 2013, 2016,2020), 4 NBA Most Valuable Player Awards (2009, 2010, 2012, 2013), 4 NBA Finals MVP Awards (2012, 2013, 2016,2020), 2 Olympic gold medals (2008, 2012), 1 NBA scoring title (2008), dan NBA Rookie of the Year Award (2004). Ia juga terpilih 18 kali dalam tim NBA All-Star (dinamai 2 kali MVP), 13 All-NBA teams, dan 6 All-Defensive teams, serta leading scorer Cavaliers sepanjang masa.</item>
+        <item>Luka Dončić (lahir 28 Februari 1999) adalah seorang pemain bola basket profesional asal Slovenia yang bermain untuk Dallas Mavericks dari National Basketball Association (NBA). Ia juga mewakili tim nasional Slovenia. Pada tahun 2018, Dončić menyatakan diri untuk mengikuti draft NBA, bergabung dengan Dallas Mavericks. Dia terpilih dengan suara bulat ke dalam Tim Utama All-Rookie NBA dan memenangkan Rookie of the Year untuk musim 2018-19. Dalam tiga musim berikutnya, ia terpilih ke dalam pertandingan NBA All-Star dan masuk ke dalam Tim Utama All-NBA. Dia adalah pemimpin waralaba Mavericks dalam karier triple-double.</item>
+        <item>Jayson Christopher Tatum Sr. (lahir 3 Maret 1998) adalah seorang pemain bola basket profesional Amerika Serikat untuk Boston Celtics dari National Basketball Association (NBA). Tatum dipilih sebagai pemain pilihan ketiga oleh Boston Celtics pada draft NBA 2017. Empat kali terpilih sebagai NBA All-Star dan dua kali terpilih sebagai All-NBA, Tatum dinobatkan sebagai Pemain Terbaik Wilayah Timur NBA pada tahun 2022 dan membantu Celtics mencapai Final NBA. Dia juga memenangkan medali emas di tim Olimpiade AS 2020 di Tokyo. Dia memegang rekor poin terbanyak yang dicetak dalam pertandingan NBA All-Star, dengan 55 poin.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/curry</item>
+        <item>@drawable/cp3</item>
+        <item>@drawable/durant</item>
+        <item>@drawable/embiid</item>
+        <item>@drawable/giannis</item>
+        <item>@drawable/harden</item>
+        <item>@drawable/irving</item>
+        <item>@drawable/jokic</item>
+        <item>@drawable/kawhi</item>
+        <item>@drawable/lebron3</item>
+        <item>@drawable/luka</item>
+        <item>@drawable/tatum</item>
+    </integer-array>
+</resources>
